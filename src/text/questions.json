@@ -1,0 +1,206 @@
+{
+  "en": [
+    {"title": "Role",
+      "data": [
+      {
+        "id": 0,
+        "points": "100",
+        "question": "This number can be a range of expected work output",
+        "answer": "What is Velocity"
+      },
+      {
+        "id": 1,
+        "points": "200",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 2,
+        "points": "300",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 3,
+        "points": "400",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 4,
+        "points": "500",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      }
+    ]},
+    {"title": "Backlog",
+      "data": [
+      {
+        "id": 0,
+        "points": "100",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 1,
+        "points": "200",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 2,
+        "points": "300",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 3,
+        "points": "400",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 4,
+        "points": "500",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      }
+    ]},
+    {"title": "Potluck",
+      "data": [
+      {
+        "id": 0,
+        "points": "100",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 1,
+        "points": "200",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 2,
+        "points": "300",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 3,
+        "points": "400",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 4,
+        "points": "500",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      }
+    ]},
+    {"title": "Agile",
+      "data": [
+      {
+        "id": 0,
+        "points": "100",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 1,
+        "points": "200",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 2,
+        "points": "300",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 3,
+        "points": "400",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 4,
+        "points": "500",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      }
+    ]},
+    {"title": "Meetings",
+      "data": [
+      {
+        "id": 0,
+        "points": "100",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 1,
+        "points": "200",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 2,
+        "points": "300",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 3,
+        "points": "400",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      },
+      {
+        "id": 4,
+        "points": "500",
+        "question": "__________________ is responsible for writing tests for the code being written.",
+        "answer": "The dev team?"
+      }
+    ]}
+  ],
+  "fr": [
+    {
+      "title": "titre",
+      "place": "place",
+      "location": "endroit",
+      "summary": "description",
+      "image": "./img/logo.svg"
+    },
+    {
+      "title": "titre",
+      "place": "place",
+      "location": "location",
+      "summary": "description",
+      "image": "./img/arrow-right.png"
+    },
+    {
+      "title": "titre",
+      "place": "place",
+      "location": "location",
+      "summary": "description",
+      "image": "./img/logo.svg"
+    },
+    {
+      "title": "titre",
+      "place": "place",
+      "location": "location",
+      "summary": "description",
+      "image": "./img/logo.svg"
+    },
+    {
+      "title": "titre",
+      "place": "place",
+      "location": "location",
+      "summary": "description",
+      "image": "./img/arrow-left.png"
+    }
+  ]
+}
