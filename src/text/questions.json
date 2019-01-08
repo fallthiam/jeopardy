@@ -1,36 +1,36 @@
 {
   "en": [
-    {"title": "Role",
+    {"title": "Performance",
       "data": [
       {
         "id": 0,
         "points": "100",
-        "question": "This number can be a range of expected work output",
+        "question": "This number can be a range of expected work output.",
         "answer": "What is Velocity"
       },
       {
         "id": 1,
         "points": "200",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
-      },
-      {
-        "id": 2,
-        "points": "300",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
-      },
-      {
-        "id": 3,
-        "points": "400",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "What is discovered during the development phase and resolved before the deployment in production of the original feature ?",
+        "answer": "A defect"
       },
       {
         "id": 4,
+        "points": "300",
+        "question": "__________________ is a framework for defining and tracking objectives and their outcomes",
+        "answer": "Objectives and Key Results (OKRs)"
+      },
+      {
+        "id": 2,
+        "points": "400",
+        "question": "__________________ is the primary measure of progress for an Agile development team.",
+        "answer": "Frequently deliver working software"
+      },
+      {
+        "id": 3,
         "points": "500",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "__________________ is the single metric that best captures the core value that your product delivers to customers.",
+        "answer": "The North Star Metric"
       }
     ]},
     {"title": "Backlog",
@@ -38,65 +38,65 @@
       {
         "id": 0,
         "points": "100",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "_________ is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint",
+        "answer": "The sprint backlog"
       },
       {
         "id": 1,
         "points": "200",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "These two concepts are key to knowing when to start and stop working on a story.",
+        "answer": "What are definition of Ready & Done ?"
       },
       {
         "id": 2,
         "points": "300",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "_________ is a highly visible, real-time picture of the work that the Development Team plans to accomplish during the Sprint",
+        "answer": "Sprint backlog"
       },
       {
         "id": 3,
         "points": "400",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "______________ is a top-down approach of requirement gathering and is represented as a tree",
+        "answer": "Story mapping"
       },
       {
         "id": 4,
         "points": "500",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "I N V E S T stands for ____________________",
+        "answer": "Independent | Negotiable | Valued | Estimatable | Small | Testable"
       }
     ]},
-    {"title": "Potluck",
+    {"title": "Good luck",
       "data": [
       {
         "id": 0,
-        "points": "100",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "points": "200",
+        "question": "______________ is the second largest country in the world.",
+        "answer": "Canada !"
       },
       {
         "id": 1,
-        "points": "200",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "points": "400",
+        "question": "What is the birth date of Queen Elizabeth II ?",
+        "answer": "April 21, 1926 (age 92 years)"
       },
       {
         "id": 2,
-        "points": "300",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "points": "600",
+        "question": "Who has the highest salary in the NBA for the 2018/2019 season ?",
+        "answer": "Stephen Curry with $34 million"
       },
       {
         "id": 3,
-        "points": "400",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "points": "800",
+        "question": "What is the highest grossing film of all time ? Double your points by giving the $$",
+        "answer": "Avatar with $2.788 billion"
       },
       {
         "id": 4,
-        "points": "500",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "points": "1000",
+        "question": "What is the capital of Bulgaria ?",
+        "answer": "Sofia"
       }
     ]},
     {"title": "Agile",
@@ -104,65 +104,65 @@
       {
         "id": 0,
         "points": "100",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "In 2001 several software industry leaders gathered at Snowbird ski resort and published this document describing a now famous approach to software development.",
+        "answer": "What is the Agile Manifesto?"
       },
       {
         "id": 1,
         "points": "200",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "Responding to change over_____________",
+        "answer": "Following a plan"
       },
       {
         "id": 2,
         "points": "300",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "It allows the Delivery Team to receive constant feedback and forces inspection and adaption.",
+        "answer": "What is the purpose of regular delivery ?"
       },
       {
         "id": 3,
         "points": "400",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "__________________ might not be a fully usable product that will delight the customer but is used to learn about the customers demand before committing resources.",
+        "answer": "The MVP (Minimum Viable Product)"
       },
       {
         "id": 4,
         "points": "500",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "Waterfall projects have fixed requirements and usually negotiate Cost and Schedule. Agile projects negotiate this.",
+        "answer": "What is Scope?"
       }
     ]},
-    {"title": "Meetings",
+    {"title": "Meetings/Roles",
       "data": [
       {
         "id": 0,
         "points": "100",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "It serves for the Scrum Team to inspect the work from the Product Backlog that’s most valuable to be done next and design that work into Sprint backlog.",
+        "answer": "What is Sprint Planning?"
       },
       {
         "id": 1,
         "points": "200",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "Typically a project's key stakeholder. Has a vision of what he or she wishes to build, and conveys that vision to the scrum team.",
+        "answer": "Who is the Product Owner?"
       },
       {
         "id": 2,
         "points": "300",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "They are the people who are affected by the outcome of the project, but are not part of the Scrum team.",
+        "answer": "Who are the stakeholders or customers?"
       },
       {
         "id": 3,
         "points": "400",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "Is the Scrum event who implement the 3 scrum principles : transparency, inspect and adapt",
+        "answer": "What is the retrospective ?"
       },
       {
         "id": 4,
         "points": "500",
-        "question": "__________________ is responsible for writing tests for the code being written.",
-        "answer": "The dev team?"
+        "question": "Append at each mid-sprint if the development team should continue or stop to work on the current sprint.",
+        "answer": "There is no such thing"
       }
     ]}
   ],

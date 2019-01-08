@@ -49,12 +49,15 @@ const TeamName = styled.div`
 	text-align: center;
 	width: 100%;
 	height: 30%;
+	font-weight: bold;
+	font-size: 100%;
 `;
 
 const Score = styled.div`
 	text-align: center;
 	width: 100%;
 	height: 30%;
+	font-weight: bold;
 `;
 
 const ButtonContainer = styled.div`

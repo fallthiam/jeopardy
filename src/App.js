@@ -37,8 +37,10 @@ class App extends Component {
 }
 
 const AppContainer = styled.div`
-  width: 100%;
-  height: 100%;
+  	width: 100%;
+  	height: 100%;
+	background-color: rgb(0, 51, 0);
+	color: white;
 `;
 
 export default App;

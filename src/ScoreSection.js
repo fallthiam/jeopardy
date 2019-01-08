@@ -18,15 +18,14 @@ const ScoreSectionContainer = styled.div`
 	box-sizing: border-box;
 	display: flex;
 	flex-direction: row;
-	justify-content: center;
+	justify-content: space-evenly;
 `;
 
 const TeamScoreWrapper = styled(TeamScore)`
 	width: 15%;
 	height: 100%;
-	margin-left: 5%;
+	margin-left: 100px;
 	margin-right: 5%;
-
 `;
 
 export default ScoreSection;

@@ -27,10 +27,10 @@ class CellModal extends Component{
 			<ContentWrapper>
 				<PointsSection>
 					<Points>
-						{this.props.points}
+						For {this.props.points}
 					</Points>
 				</PointsSection>
-				<Question onClick={this.toogleAnswer}>
+				<Question onClick={this.toogleAnswer} answerOpened={this.state.answerOpened}>
 					{this.props.question}
 				</Question>
 				<Answer answerOpened={this.state.answerOpened}>
@@ -44,22 +44,42 @@ class CellModal extends Component{
 
 const ContentWrapper = styled.div`
 	height: 100%;
-	width: 100%;
+	width: 80%;
 	position: relative;
 	background-color: white;
+	margin: auto;
 `;
 
 const PointsSection = styled.div`
-	height: 15%;
+	height: 10%;
 	width: 100%;
 	font-size: 100%;
+	border-bottom: solid 1px black;
+	margin-bottom: 5%;
+	display: flex;
+  	justify-content: center;
+  	flex-direction: column;
+  	text-align: center;
+`;
+
+const Points = styled.div`
+	margin: auto;
+	width: 30%;
+	text-align: center;
+	font-weight: bold;
+	color: rgb(0, 51, 0);
 `;
 
 const Question = styled.div`
-	height: 20%;
 	width: 100%;
 	text-align: center;
 	font-size: 200%;
+	transition: all 1s linear;
+	-webkit-transition: all 1s linear;
+	${({ answerOpened }) => answerOpened && `
+		visibility: visible;
+		font-size: 150%;
+  	`}
 `;
 
 const Answer = styled.div`
@@ -68,23 +88,17 @@ const Answer = styled.div`
 	bottom: 0;
 	text-align: center;
 	visibility: hidden;
-	transition: all 1.5s linear;
-	-webkit-transition: all 1.5s linear;
+	transition: all 1s linear;
+	-webkit-transition: all 1s linear;
 	background-color: white;
 	font-size: 100%;
+	color: rgb(0, 51, 0);
 	${({ answerOpened }) => answerOpened && `
 		visibility: visible;
 		transform: translateY(-100%);
 		height: 25%;
 		font-size: 200%;
   	`}
-`;
-
-const Points = styled.div`
-	margin: auto;
-	margin-top: 50px;;
-	width: 30%;
-	text-align: center;
 `;
 
 export default CellModal;

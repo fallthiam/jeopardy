@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import styled from 'styled-components';
 import ReactModal from 'react-modal';
-import CellModal from './CellModal.js'
+import CellModal from './CellModal.js';
+import closeButton from './img/close.png';
 ReactModal.setAppElement("#root");
 
 class JeopardyCell extends Component {
@@ -39,7 +40,7 @@ class JeopardyCell extends Component {
 					{this.renderCell(this.props.datas.points)}
 				</CellInfos>
 				<Modal isOpen={this.state.modalIsOpen} style={modalContainserSize}>
-			        <CloseModalButton onClick={this.closeModal}>Close</CloseModalButton>
+			        <CloseModalButton onClick={this.closeModal} src={closeButton} />
 			        <ModalContent 
 			        	points={this.props.datas.points} 
 			        	question={this.props.datas.question}
@@ -57,7 +58,7 @@ const Cell = styled.div`
 	border: 3px grey solid;
 	&:hover {
 		cursor: pointer;
-		border: 3px purple solid;
+		border: 3px rgb(137, 200, 255) solid;
 	}
 `;
 
@@ -74,13 +75,14 @@ const CellScore = styled.div`
   	top: 50%;
   	transform: translate(-50%, -50%);
   	font-size: 200%;
+  	font-weight: bold;
 `;
 
-const CloseModalButton = styled.button`
+const CloseModalButton = styled.img`
 	position: absolute;
 	top: 0%;
     right: 0%;
-    width: 50px;
+    width: 5%;
 	&:hover{
 		cursor: pointer;
 	}
