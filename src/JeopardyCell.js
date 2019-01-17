@@ -58,7 +58,7 @@ const Cell = styled.div`
 	border: 3px grey solid;
 	&:hover {
 		cursor: pointer;
-		border: 3px rgb(137, 200, 255) solid;
+		border: 3px yellow solid;
 	}
 `;
 

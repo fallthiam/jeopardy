@@ -6,12 +6,12 @@
         "id": 0,
         "points": "100",
         "question": "This number can be a range of expected work output.",
-        "answer": "What is Velocity"
+        "answer": "What is Velocity ?"
       },
       {
         "id": 1,
         "points": "200",
-        "question": "What is discovered during the development phase and resolved before the deployment in production of the original feature ?",
+        "question": "What is discovered during the development phase and resolved before the deployment in production of the original PBI ?",
         "answer": "A defect"
       },
       {

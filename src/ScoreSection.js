@@ -6,8 +6,9 @@ class ScoreSection extends Component {
 	render(){
 		return(
 			<ScoreSectionContainer>
-				<TeamScoreWrapper teamName="Team 1"/>
-				<TeamScoreWrapper teamName="Team 2" />
+				<TeamScoreWrapper teamName="Number 1 team"/>
+				<TeamScoreWrapper teamName="Team Grass" />
+				<TeamScoreWrapper teamName="Bits" />
 			</ScoreSectionContainer>
 		);
 	}
